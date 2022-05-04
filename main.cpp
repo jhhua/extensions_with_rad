@@ -13,7 +13,7 @@ int main(int argv,char *argc[]) {
         cout << "使用方法：>>>" << endl;
         cout << "先开启一个端口6666，然后再读取url.txt爬行>>>" << endl;
         cout << "extensions_with_rad rad.exe 127.0.0.1:6666 url.txt>>>" << endl;
-    }else if(argv == 3)
+    }else if(argv == 4)
     {
         char geturl[1024]  = {0};
         int command = argv;
