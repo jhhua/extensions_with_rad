@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/extensions_with_rad/cmake-build-debug/CMakeFiles/extensions_with_rad.dir
+C:/Users/ASUS/CLionProjects/extensions_with_rad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/extensions_with_rad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
